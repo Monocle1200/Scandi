@@ -82,7 +82,7 @@ h2 {
 /* Header */
 
 .header {
-    background-image: url(/img/header_background.jpg);
+    background-image: url(img/header_background.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -476,7 +476,7 @@ h2 {
 
 .gallery-button::before{
     content: "";
-    background-image: url(/img/gallery_arrow.png);
+    background-image: url(img/gallery_arrow.png);
     width: 61px;
     height: 16px;
     position: absolute;
@@ -623,7 +623,7 @@ h2 {
 }
 
 .reviews-button {
-    background-image: url(/img/reviews_arrow_right.svg);
+    background-image: url(img/reviews_arrow_right.svg);
     background-repeat: no-repeat;
     background-position: center;
     width: 72px;
@@ -636,7 +636,7 @@ h2 {
 }
 
 .reviews-button-left {
-    background-image: url(/img/reviews_arrow_left.svg);
+    background-image: url(img/reviews_arrow_left.svg);
     left: 95px;
 }
 
